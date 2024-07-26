@@ -37,9 +37,9 @@ This repository contains a Python script for sending bulk emails using SMTP cred
 4. Create a `recipients.txt` file in the project root with the list of email addresses (one per line):
 	
 	```plaintext
-		recipient1@example.com
-		recipient2@example.com
-		recipient3@example.com
+	recipient1@example.com
+	recipient2@example.com
+	recipient3@example.com
 	```
 
 ## Usage
