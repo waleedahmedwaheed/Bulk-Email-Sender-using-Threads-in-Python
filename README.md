@@ -15,12 +15,7 @@ This repository contains a Python script for sending bulk emails using SMTP cred
     cd bulk-email-sender
     ```
 
-2. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Create a `config.json` file in the project root with your SMTP credentials and email details:
+2. Create a `config.json` file in the project root with your SMTP credentials and email details:
 
     ```plaintext
     {
@@ -34,7 +29,7 @@ This repository contains a Python script for sending bulk emails using SMTP cred
 	}
     ```
 	
-4. Create a `recipients.txt` file in the project root with the list of email addresses (one per line):
+3. Create a `recipients.txt` file in the project root with the list of email addresses (one per line):
 	
 	```plaintext
 	recipient1@example.com
